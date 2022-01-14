@@ -7,7 +7,4 @@ This repo consists of 3 react mini projects :
   
 This repository is created for learning and enhancing reacy development skills. Through the projects, 
 the main focus is on react concepts such as :
-  React components
-  React props
-  React states and hooks
-  React effects (useEffect hook)
+  React components, props, states and hooks and effects (useEffect hook).
