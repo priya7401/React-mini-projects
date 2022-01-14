@@ -77,7 +77,7 @@ function, as seen below:
                     className="form--button"
                     onClick={getMemeImage}
                 >
-                    Get a new meme image 🖼
+                    Get a new meme image
                 </button>
             </div>
             <div className="meme">
