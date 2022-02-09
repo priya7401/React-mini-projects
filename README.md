@@ -5,9 +5,8 @@ This repo consists of 3 react mini projects :
   2.  Notes App
   3.  Tenzies Game
   
-This repository is created for learning and enhancing reacy development skills. Through the projects, 
-the main focus is on react concepts such as :
-  React components, props, states and hooks and effects (useEffect hook).
+  This repository was created to learn and improve React development skills. The primary focus of the projects is on React concepts such as :
+    React components, props, states, hooks, and effects (useEffect hook).
 
 Steps to launch the projects on local server:
   1. Fork/download zip of 'React-mini-projects' directory
